@@ -454,6 +454,9 @@ img {
     width: 360px;
     padding-top: 2rem;
   }
+  .about__text{
+  text-align: left;
+}
   .contact__container {
     justify-items: center;
   }
@@ -510,6 +513,9 @@ img {
     align-items: center;
     text-align: initial;
   }
+  .about__text{
+  text-align: left;
+}
   .work__container {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 2rem;
